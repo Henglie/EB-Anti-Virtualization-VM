@@ -1,0 +1,177 @@
+Windows Registry Editor Version 5.00
+
+@echa off
+
+:vm8
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\VMware, Inc.\VMware Workstation\License.ws.8.0.e2.201010]
+"ProductID"="VMware Workstation"
+"Hash"="6c4d7038-6548d2fc-5626bcc0-d38142de-bd6d9507"
+"Option"="3"
+"LicenseType"="Site"
+"Epoch"="2010-10-01"
+"Cpt"="COPYRIGHT (c) VMware, Inc. 1999-2011"
+"LicenseEdition"="ws.vl"
+"Edition"="1"
+"LicenseVersion"="8.0"
+"AdminUI"="1"
+"StartFields"="Cpt, ProductID, LicenseVersion, LicenseType, LicenseEdition, Field2"
+"DataHash"="c14d133d-271dd3c6-e544aa2d-284f20ff-20b762c7"
+"Data"="MaxVcpusPerVm=8;mdate=2010-10-05"
+"Field2"="AdminUI, Edition, Option, Epoch"
+"Serial"="JC6AP-D4H0P-TZ131-4A2QM-8CNP7"
+"LastModified"="2022-01-17 @ 14:20:40 UTC"
+
+:vm9
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\VMware, Inc.\VMware Workstation\License.ws.9.0.e2.201202]
+"StartFields"="Cpt, ProductID, LicenseVersion, LicenseType, LicenseEdition, Field2"
+"Field2"="AdminUI, Edition, Option, Epoch"
+"Cpt"="COPYRIGHT (c) VMware, Inc. 1999-2012"
+"ProductID"="VMware Workstation"
+"LicenseVersion"="9.0"
+"LicenseType"="Site"
+"LicenseEdition"="ws.vl"
+"AdminUI"="1"
+"Edition"="1"
+"Epoch"="2012-02-01"
+"Option"="3"
+"Data"="MaxVcpusPerVm=8;mdate=2012-02-21"
+"DataHash"="55926b45-5f0ce4cf-74e3d564-e5f14c7b-a9759125"
+"Hash"="7287ed76-cff171a7-36a3910f-300641a0-8ad8daae"
+"Serial"="JV695-DR0D3-LZUC0-H8852-CAWJ4"
+"LastModified"="2022-01-16 @ 01:04:49 UTC"
+
+
+
+
+:vm10.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\VMware, Inc.\VMware Workstation\License.ws.10.0.e2.201303]
+"StartFields"="Cpt, ProductID, LicenseVersion, LicenseType, LicenseEdition, Field2"
+"Field2"="Option, Epoch"
+"Cpt"="COPYRIGHT (c) VMware, Inc. 1999-2013"
+"ProductID"="VMware Workstation"
+"LicenseVersion"="10.0"
+"LicenseType"="Site"
+"LicenseEdition"="ws.vl"
+"Epoch"="2013-03-01"
+"Option"="19"
+"Data"="MaxVcpusPerVm=8;mdate=2013-02-21"
+"DataHash"="048baee4-c58f88c2-8abb15b2-9eb9f3e9-643ba9a0"
+"Hash"="803cdfaa-eedeba1c-cbd66858-9d95440c-1988638e"
+"Serial"="5A6ZT-20JD2-LZWZ9-H38N0-92L62"
+"LastModified"="2022-01-08 @ 08:06:03 UTC"
+
+
+:vm11.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\VMware, Inc.\VMware Workstation\License.ws.11.0.e2.201404]
+"StartFields"="Cpt, ProductID, LicenseVersion, LicenseType, LicenseEdition, Field2"
+"Field2"="Option, Epoch"
+"Cpt"="COPYRIGHT (c) VMware, Inc. 1999-2014"
+"ProductID"="VMware Workstation"
+"LicenseVersion"="11.0"
+"LicenseType"="Site"
+"LicenseEdition"="ws.vl"
+"Epoch"="2014-04-01"
+"Option"="19"
+"Data"="MaxVcpusPerVm=8;mdate=2014-02-21"
+"DataHash"="b773d7d9-74ae5e1c-a5964915-bb994318-4b9a97d8"
+"Hash"="ab13c654-954b2db8-5401e256-47c8a677-7569c09d"
+"Serial"="1F04Z-6D111-7Z029-AV0Q4-3AEH8"
+"LastModified"="2022-01-07 @ 03:10:15 UTC"
+
+
+
+:vm12.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\VMware, Inc.\VMware Workstation\License.ws.12.0.e2.201505]
+"StartFields"="Cpt, ProductID, LicenseVersion, LicenseType, LicenseEdition, Field2"
+"Field2"="Option, Epoch"
+"Cpt"="COPYRIGHT (c) VMware, Inc. 1999-2015"
+"ProductID"="VMware Workstation"
+"LicenseVersion"="12.0"
+"LicenseType"="Site"
+"LicenseEdition"="ws.vl"
+"Epoch"="2015-05-01"
+"Option"="19"
+"Data"="MaxVcpusPerVm=8;mdate=2015-03-21"
+"DataHash"="9c1fd1a3-49c3429c-641e9076-da73b697-d2ee0588"
+"Hash"="9811fc4e-e4f95a51-1b40c17c-ad0b652e-20218f07"
+"Serial"="VF5XA-FNDDJ-085GZ-4NXZ9-N20E6"
+"LastModified"="2022-01-07 @ 01:23:52 UTC"
+
+
+
+:VM14
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\VMware, Inc.\VMware Workstation\License.ws.14.0.e1.201704]
+"StartFields"="Cpt, ProductID, LicenseVersion, LicenseType, LicenseEdition, Field2"
+"Field2"="Option, Epoch"
+"Cpt"="COPYRIGHT (c) VMware, Inc. 1999-2017"
+"ProductID"="VMware Workstation"
+"LicenseVersion"="14.0"
+"LicenseType"="Site"
+"LicenseEdition"="ws"
+"Epoch"="2017-04-01"
+"Option"="19"
+"Data"="MaxVcpusPerVm=8;mdate=2017-03-21"
+"DataHash"="b4cc7b53-6a6bd969-b68050b2-26f37990-f30be418"
+"Hash"="2a803b69-9b45e859-61963101-8979935d-824d997d"
+"Serial"="CV7T2-6WY5Q-48EWP-ZXY7X-QGUWD"
+"LastModified"="2022-11-07 @ 22:16:44 UTC"
+
+
+
+
+:VM15
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\VMware, Inc.\VMware Workstation\License.ws.15.0.e2.201804]
+"StartFields"="Cpt, ProductID, LicenseVersion, LicenseType, LicenseEdition, Field2"
+"Field2"="Option, Epoch"
+"Cpt"="COPYRIGHT (c) VMware, Inc. 1999-2018"
+"ProductID"="VMware Workstation"
+"LicenseVersion"="15.0"
+"LicenseType"="Site"
+"LicenseEdition"="ws.vl"
+"Epoch"="2018-04-01"
+"Option"="19"
+"Data"="MaxVcpusPerVm=8;mdate=2018-03-21"
+"DataHash"="040eeaa7-cdacee38-e2ee2312-fc7c6fd1-72bbe879"
+"Hash"="d70b6267-8ddb050c-4eec50c6-e65ba629-814e2b34"
+"Serial"="VG5HH-D6E04-0889Y-QXZET-QGUC8"
+"LastModified"="2022-04-12 @ 06:32:17 UTC"
+
+
+
+:vm16.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\VMware, Inc.\VMware Workstation\License.ws.16.0.e5.202001]
+"StartFields"="Cpt, ProductID, LicenseVersion, LicenseType, LicenseEdition, Option, Epoch"
+"Field2"="Option, Epoch"
+"Cpt"="COPYRIGHT (c) VMware, Inc. 1999-2020"
+"ProductID"="VMware Workstation"
+"LicenseVersion"="16.0"
+"LicenseType"="Site"
+"LicenseEdition"="ws.pro.vl"
+"Epoch"="2020-01-01"
+"Option"="19"
+"Data"="MaxVcpusPerVm=8;mdate=2020-03-21"
+"DataHash"="75031192-95281f93-fef83b49-31cdf9f7-c8041f60"
+"Hash"="a5a50855-3e5c1461-93fb7668-dce0254a-443b3ab1"
+"Serial"="ZF3R0-FHED2-M80TY-8QYGC-NPKYF"
+"LastModified"="2022-01-08 @ 03:22:30 UTC"
+
+:vm17.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\VMware, Inc.\VMware Workstation\License.ws.17.0.e2.202208]
+"StartFields"="Cpt, ProductID, LicenseVersion, LicenseType, LicenseEdition, Option, Epoch, Hash2"
+"Field2"="Option, Epoch"
+"Cpt"="COPYRIGHT (c) VMware, Inc. 1999-2022"
+"ProductID"="VMware Workstation"
+"LicenseVersion"="17.0"
+"LicenseType"="Site"
+"LicenseEdition"="ws.fusion.pro.vl"
+"Epoch"="2022-08-01"
+"Option"="31"
+"Data"="MaxVcpusPerVm=8;mdate=2022-03-21"
+"DataHash"="8c820ac5-2afd8aaa-e65012ae-0d3a123a-11c62de7"
+"Hash"="cbd7a9ae-8a621be2-ceee1851-b59f78d8-9cf91eb9"
+"Hash2"="6de5e501-51c541a0-fa5a157e-a56bae61-0cc65e86"
+"Serial"="MC60H-DWHD5-H80U9-6V85M-8280D"
+"LastModified"="2022-11-18 @ 11:21:38 UTC"
+
+
+
