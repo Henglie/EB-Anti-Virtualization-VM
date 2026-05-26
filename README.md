@@ -15,6 +15,7 @@ HI！欢迎使用 EternalBlaze 调试级虚拟机！
 ♥ 操作系统版本：Windows 10 (1909)专业版 x64
 
 ♥ ♥ ♥**成品分流下载：**https://pan.quark.cn/s/191bb0fd2a96
+♥ ♥ ♥成品国际版下载（If you are not from Chinese Mainland, please select this）：https://hzld18k-my.sharepoint.com/:f:/g/personal/henglie_hzld18k_onmicrosoft_com/IgBgQYCtTtxBSrmpbiSID0wNAU710gglZAHtRAYu41jdRU0?e=sRT6ho
 
 # 02 安装流程（必看）
 
